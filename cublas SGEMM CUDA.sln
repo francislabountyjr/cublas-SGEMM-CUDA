@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cublas SGEMM CUDA", "cublas SGEMM CUDA\cublas SGEMM CUDA.vcxproj", "{34F6C962-3513-4615-ABC0-4EA9FE4A5179}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34F6C962-3513-4615-ABC0-4EA9FE4A5179}.Debug|x64.ActiveCfg = Debug|x64
+		{34F6C962-3513-4615-ABC0-4EA9FE4A5179}.Debug|x64.Build.0 = Debug|x64
+		{34F6C962-3513-4615-ABC0-4EA9FE4A5179}.Release|x64.ActiveCfg = Release|x64
+		{34F6C962-3513-4615-ABC0-4EA9FE4A5179}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {277A1D37-A2AE-45AE-A881-788C22081913}
+	EndGlobalSection
+EndGlobal
